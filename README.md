@@ -23,4 +23,5 @@ Backspace- clear the board
 
 **You can also choose to play with a mouse if you'd like**
 
+If you would like to download the game and play it:
 https://mohammed-abedin.itch.io/tictactoe-controller-edition
